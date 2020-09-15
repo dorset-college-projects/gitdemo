@@ -1,1 +1,3 @@
-Hello World - 1
+Hello World - 1 - Version 2
+My name is John Rowley
+I added lesson 2 in this build
